@@ -10,7 +10,7 @@ To run the code just download it and run as application in R studio and folder s
     * Data is read and cleaned in R.
     *	A shiny app is built to capture the visualization
     * First, a ggplot to capture the bleaching trend across different sites
-    *	Second, a leaflet map to represent the sites location on a map
+    *	Second, a leaflet map to represent the sites location on a map.
 
 *	Preview of the app:
 ![alt text](https://github.com/mayank-bhardwaj-03/Coral-reef-data-visualization/blob/master/image.png)
