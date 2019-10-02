@@ -13,3 +13,5 @@ To run the code just download it and run as application in R studio and folder s
     *	Second, a leaflet map to represent the sites location on a map
 
 *	Preview of the app:
+![alt text](https://github.com/mayank-bhardwaj-03/Coral-reef-data-visualization/blob/master/image.png)
+![alt text](https://github.com/mayank-bhardwaj-03/Coral-reef-data-visualization/blob/master/image2.png)
